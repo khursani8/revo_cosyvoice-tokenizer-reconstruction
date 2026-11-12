@@ -1,3 +1,5 @@
+> **Unique:** Toolkit for CosyVoice3 speech-token round-trips: encode audio to tokens (ONNX, batch, perceiver modes), decode via Flow+HiFi-GAN, run LLM-free voice conversion, and score reconstruction with SRER.
+
 # CosyVoice Tokenizer Reconstruction
 
 Tools for encoding audio to speech tokens, decoding back to audio, and performing voice conversion using CosyVoice3 components.
